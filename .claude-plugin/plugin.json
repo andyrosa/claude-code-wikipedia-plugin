@@ -1,0 +1,8 @@
+{
+  "name": "wikipedia",
+  "version": "1.0.0",
+  "description": "Fetch Wikipedia articles and data. WebFetch returns 403 on all Wikipedia URLs due to Python user-agent blocking — this plugin provides the curl workaround.",
+  "author": {
+    "name": "andyrosa"
+  }
+}
